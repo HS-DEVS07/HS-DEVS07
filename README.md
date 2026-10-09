@@ -198,7 +198,7 @@ SHIP USEFUL THINGS.
   <a href="https://github.com/HS-DEVS07">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://mujahid.xyz">
+  <a href="https://great.mujahid.xyz">
     <img src="https://img.shields.io/badge/WEBSITE-00AFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 
